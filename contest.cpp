@@ -1,4 +1,4 @@
-//LINK https://www.codechef.com/problems/BIG
+//https://www.codechef.com/problems/RECENTCONT?tab=statement
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -8,20 +8,19 @@ int main() {
     while(t--){
         int n;
         cin>>n;
-        int a[n];
+        int sum1=0;
+        int sum2=0;
         for(int i=0;i<n;i++){
-            cin>>a[i];
-        }
-        int max=-1;
-        for(int i=0;i<n;i++){
-            if(a[i]>max){
-                cout<<1<<" ";
-                max=a[i];
+             string s;
+              cin>>s;
+            if(s=="START38"){
+                sum1+=1;
             }
             else{
-                cout<<0<<" ";
+                sum2+=1;
             }
         }
+        cout<<sum1<<" "<<sum2<<endl;
     }
 	// your code goes here
 
