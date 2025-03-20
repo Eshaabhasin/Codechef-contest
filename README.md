@@ -3,4 +3,5 @@ This repository contains solutions to **CodeChef Contests**, specifically focusi
 
 ## 📌 Topics Covered  
 - 📝 Arrays  
-- 💡 Basic Programming  
+- 💡 Basic Programming
+- Strings
