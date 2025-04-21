@@ -1,5 +1,5 @@
 # 🚀 CodeChef Contests  
-This repository contains solutions to **CodeChef Contests**, specifically focusing on **Starter Questions** in **C++**.  
+This repository contains solutions to **CodeChef Contests** in **C++**.  
 
 ## 📌 Topics Covered  
 - 📝 Arrays  
