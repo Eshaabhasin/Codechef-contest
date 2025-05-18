@@ -2,7 +2,7 @@
 This repository contains solutions to **CodeChef Contests** in **C++**.  
 
 ## 📌 Topics Covered  
-- 📝 Arrays  
+- 📝 Arrays,Vectors
 - 💡 Basic Programming
 - Strings
 - Conditional Statements
