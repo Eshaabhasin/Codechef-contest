@@ -6,3 +6,4 @@ This repository contains solutions to **CodeChef Contests** in **C++**.
 - 💡 Basic Programming
 - 💡 Strings
 - Conditional Statements
+-Trees
