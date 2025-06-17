@@ -7,4 +7,5 @@ This repository contains solutions to **CodeChef Contests** in **C++**.
 - 💡 Strings
 - 💡Conditional Statements
 - 💡 Trees
-- DP
+- 💡 DP
+- 💡Graphs
