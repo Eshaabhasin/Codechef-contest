@@ -9,3 +9,4 @@ This repository contains solutions to **CodeChef Contests** in **C++**.
 - 💡 Trees
 - 💡 Dynamic programming 
 - 💡Graphs
+- 💡Greedy
