@@ -7,6 +7,6 @@ This repository contains solutions to **CodeChef Contests** in **C++**.
 - 💡 Strings
 - 💡Conditional Statements
 - 💡 Trees
-- 💡 Dynamic programming 
+- 💡 Dynamic programming -Grids
 - 💡Graphs
 - 💡Greedy
