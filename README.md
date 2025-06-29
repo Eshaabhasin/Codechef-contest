@@ -4,7 +4,7 @@ This repository contains solutions to **CodeChef Contests** in **C++**.
 ## 📌 Topics Covered  
 - 📝 Arrays,Vectors
 - 💡 Basic Programming
-- 💡 Strings
+- 💡 Strings-substring 
 - 💡Conditional Statements
 - 💡 Trees
 - 💡 Dynamic programming -Grids
