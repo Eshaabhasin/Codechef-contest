@@ -3,7 +3,7 @@ This repository contains solutions to **CodeChef Contests** in **C++**.
 
 ## 📌 Topics Covered  
 - 📝 Arrays,Vectors
-- 💡 Basic Programming
+- 💡 Basic Programming Questions 
 - 💡 Strings- Substring 
 - 💡Conditional Statements
 - 💡 Trees- BST
