@@ -8,5 +8,6 @@ This repository contains solutions to **CodeChef Contests** in **C++**.
 - 💡Conditional Statements
 - 💡 Trees- BST
 - 💡 Dynamic programming - Grids,Subsequence
-- 💡Graphs
+- 💡Graphs -Dfs,Bfs
 - 💡Greedy
+
