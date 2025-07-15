@@ -9,5 +9,5 @@ This repository contains solutions to **CodeChef Contests** in **C++**.
 - 💡 Trees- BST
 - 💡 Dynamic programming - Grids,Subsequence
 - 💡Graphs -Dfs,Bfs
-- 💡Greedy
+- 💡Greedy Approach
 
